@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JRollins089/employee-tracker.git"
+    "url": "git+https://github.com/JRollins089/Challege-12.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JRollins089/employee-tracker/issues"
+    "url": "https://github.com/JRollins089/Challege-12/issues"
   },
-  "homepage": "https://github.com/JRollins089/employee-tracker#readme",
+  "homepage": "https://github.com/JRollins089/Challege-12#readme",
   "dependencies": {
     "console.table": "^0.10.0",
     "dotenv": "^8.2.0",
